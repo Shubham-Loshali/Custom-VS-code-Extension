@@ -26,3 +26,11 @@ Before using this extension, ensure you have:
   ```bash
   npm install node-fetch@^2.6.9
   npm install @types/vscode@^1.80.0
+  ```
+
+---
+
+## Marketplace
+
+- Install from VS Code Marketplace: [code assistantt](https://marketplace.visualstudio.com/items?itemName=klka.code-assistantt)
+- Or run in VS Code: `ext install klka.code-assistantt`
