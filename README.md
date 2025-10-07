@@ -1,4 +1,4 @@
-# 💻 Code Assistant VS
+# 💻 Code Assistant VS Code
 
 **Code Assistant VS** is a smart coding helper extension for Visual Studio Code that assists developers in writing better code with **real-time suggestions, explanations, and debugging help**.  
 It’s designed to boost productivity, help beginners understand their code, and make programming more efficient.
